@@ -1,0 +1,41 @@
+body{
+    color:white;
+    background-color: lightblue;	
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color:purple;
+}
+p,a{
+    font-family: Ariel;font-size: 24px
+}
+#imagem-de-background{
+    width: 1200;
+    height: 675;
+}
+#formulario{
+    background-color: white;
+    padding: 5px;
+    border: 3px solid black;
+    margin: 50px 33%;
+    width: 500px;
+    height: 450px;
+}
+h2{
+    margin: 0px;
+    background-color: blue;
+}
+.info{
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+#botao{
+    border: 1px solid black;
+    display: inline;
+    margin: 24px 10px;
+}
+section{
+    min-height: 200px;
+}
